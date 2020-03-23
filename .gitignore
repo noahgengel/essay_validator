@@ -1,0 +1,4 @@
+# Files to ignore in the upload - ensure no text or IDEA
+# files inadvertently uplaoded
+
+.idea/
